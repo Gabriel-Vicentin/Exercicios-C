@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "Exercicios 01.C": "cpp",
+        "Exercicios 01 If else.C": "cpp",
+        "Exercicio Op relacionais.C": "cpp",
+        "Exerc VOTO.C": "cpp",
+        "Exec 7 if else.C": "cpp",
+        "Exec 13 if else.C": "cpp",
+        "Exec 10 for.C": "cpp",
+        "Exemplo funções.C": "cpp",
+        "Exemplo funções 2.C": "cpp",
+        "Exemplo funções3.C": "cpp",
+        "Exemplo funções 4.C": "cpp",
+        "exec 4,c": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
